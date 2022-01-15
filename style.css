@@ -25,3 +25,18 @@ main > section img {
     margin: 15px 0;
     width: 300px;
 }
+
+main > section button {
+    background-color: #5eff00;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 18px;
+    font-weight: 500px;
+    letter-spacing: -0.6px;
+    line-height: 15px;
+    text-transform: uppercase;
+    padding: 9px 23px;
+      
+}
