@@ -32,7 +32,7 @@ main > section button {
     border-radius: 10px;
     color: white;
     font-family: 'Franklin Gothic Medium';
-    font-size: 18px;
+    font-size: 12px;
     font-weight: 500px;
     letter-spacing: -0.6px;
     line-height: 15px;
@@ -43,6 +43,5 @@ main > section button {
 #Detalhes-container {
     font-weight: bold;
     list-style-type: none;
-    height: 30px;
     width: 90%;
 }
